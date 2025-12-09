@@ -8,13 +8,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 박태록(Taerok Park)
-    tagline: Backend Developer
+    name: 김민정(Min-jung Kim)
+    tagline: AI Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: tetrapod3dev@gmail.com
-    phone: +82 010-2550-5388
     timezone: Asia/Seoul Timezone
     citizenship:
     website: velog.io/@tetrapod3dev
