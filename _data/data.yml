@@ -9,11 +9,11 @@ sidebar:
 
     # Profile information
     name: 김민정(Min-jung Kim)
-    tagline: AI Researcher
+    tagline: Researcher
     avatar: /assets/images/profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tetrapod3dev@gmail.com
+    email: kwss1996@gmail.com
     timezone: Asia/Seoul Timezone
     citizenship:
     website: velog.io/@tetrapod3dev
@@ -26,7 +26,7 @@ sidebar:
     interests:
       title: Skills
       info:
-        - item: Java, Python
+        - item: Python
 
         - item: Spring Boot, Spring MVC, Spring Batch, Spring Security
 
@@ -39,18 +39,16 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      안녕하세요. 저는 개발자 박태록입니다. 스타트업 개발자로 웹 챗봇에 대한 기술에 대해 다양한 경험이 있습니다. 
+      I am a Researcher at LG Electronics. 
       주요 업무는 GCP 플랫폼에서 아키텍처를 구성하며 백엔드 개발을 하는 것 입니다. 새로운 기술에 대한 관심이 많습니다.
 
 education:
     title: Education
     info:
-      - degree: SSAFY 3기 수료
-        university: 삼성 청년 SW 아카데미 (SSAFY)
-        time: 2020.01 - 2020.12
+      - degree: M.S. in Computer Science and Engineering
+        university: Korea University
+        time: 2023.03 - 2025.08
         details: |
-          SSAFY에서 1년간의 교육을 통해 Java를 기반으로 실무에 필요한 소프트웨어 개발 능력을 강화했습니다. 
-          다양한 프로젝트와 협업 경험을 통해 실제 업무 환경에서 요구되는 기술적, 협업적 능력을 키웠습니다.
       - degree: 시스템경영공학과, 컴퓨터공학과 학사
         university: 성균관대학교
         time: 2013.03 - 2017.02
