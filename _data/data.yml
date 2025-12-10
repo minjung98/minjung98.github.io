@@ -28,14 +28,6 @@ sidebar:
       info:
         - item: Python
 
-        - item: Spring Boot, Spring MVC, Spring Batch, Spring Security
-
-        - item: MySQL, MyBatis
-
-        - item: JSP, Javascript, HTML5, CSS
-
-        - item: GCP(GCE, GAE, GKE, Cloud Run, Cloud Function)
-
 career-profile:
     title: Profile
     summary: |
